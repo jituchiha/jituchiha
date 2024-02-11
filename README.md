@@ -9,9 +9,16 @@
 
 - 📫 How to reach me **jitbhandari99@gmail.com**
 
+- ⚡ Fun fact **I am a dog person 🐾**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jitbhand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jitbhand/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jitbhand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jitbhand/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/jit_uchiha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jit_uchiha/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/jiteshb11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jiteshb11" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jiteshb11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jiteshb11" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/jit_uchiha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jit_uchiha" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jit_uchiha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jit_uchiha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
